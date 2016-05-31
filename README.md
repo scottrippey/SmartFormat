@@ -6,3 +6,5 @@ SmartFormat
 **[SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET)** -- For C# and VB.NET.  Compatible with .NET 2, 3, 4, and Compact.
 
 **[SmartFormat.JS](https://github.com/scottrippey/SmartFormat.JS)** -- For Javascript.  Contains plugins for jQuery and MooTools.
+
+**[SmartFormat for Python](https://github.com/what-studio/smartformat)** -- Third-party Python implementation.
